@@ -6,12 +6,12 @@ It demonstrates **basic Java programming concepts** such as classes, packages, u
 ---
 
 ## 📂 Project Structure
-src/
-├── Main.java # Entry point of the program
-├── program/
-│ └── Program.java # Controls the flow of the program
-└── task/
-└── Words.java # Handles sentence input, word storage, and counting
+src/<br>
+├── Main.java # Entry point of the program<br>
+├── program/<br>
+│ └── Program.java # Controls the flow of the program<br>
+└── task/<br>
+└── Words.java # Handles sentence input, word storage, and counting<br>
 
  📌 Features
 - Takes a sentence from the user.
